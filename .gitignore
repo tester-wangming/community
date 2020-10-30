@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+ git config --global user.name "codetester"
+
+git config --global user.email“tester15267014144@163.com"
+
+ssh-keygen -t rsa -C "tester15267014144@163.com"
